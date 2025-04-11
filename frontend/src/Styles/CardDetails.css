@@ -1,0 +1,78 @@
+.card_details{
+    margin-left: 90px;
+}
+.pic-form{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.card_info{
+    border: 1px solid black;
+    padding: 10px;
+    width: 500px;
+    margin-top: 30px;
+    gap: 20px;
+    border-radius: 10px;
+}
+.card_info> p {
+   
+    padding: 10px;
+
+    gap: 20px;
+}
+
+
+#quantity{
+    margin-right: 60px;
+    border: none;
+    padding: 10px;
+    outline-width: 0;
+    font-size: 15px;
+        
+    
+}
+
+.heading-hold {
+    border-top: 2px grey solid;
+    border-bottom: 2px grey solid;;
+    display: flex;
+    flex-direction: column;
+     left: 12rem; 
+    gap: 3rem; 
+    margin-top: 40px ;
+
+}
+
+.text-xl{
+    font: bolder;
+    font-size: x-large;
+}
+
+.text{
+    font-style: italic;
+}
+
+.flex-container{
+    display: flex;
+    gap: 120px;
+}
+
+.priceRate{
+    display: flex;
+    
+}
+
+.reserve_btn_div{
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reserve_btn{
+    background-color: #ff7779 !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: white !important;
+}
+
