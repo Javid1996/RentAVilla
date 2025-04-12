@@ -2,6 +2,8 @@ RentAVilla 🏝️
 Luxury Vacation Rentals Made Seamless
 
 RentAVilla is a full-stack web application that connects high-end travelers with luxury vacation property owners. Designed with elegance and usability in mind, it offers a secure, intuitive platform for browsing, booking, and managing premium rental properties.
+Clear collaboration between backend, frontend, and UX.
+
 
 🌟 Key Features:
 🔐 Secure User Authentication – Register, log in, and manage your account effortlessly.
